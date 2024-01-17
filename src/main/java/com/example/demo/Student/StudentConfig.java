@@ -21,24 +21,24 @@ public class StudentConfig {
 
                     "Faiza",
                     "shakil77977@gmail.com",
-                    LocalDate.of(2000, MARCH,3),
-                    21
+                    LocalDate.of(2000, MARCH,3)
+                    //21
             );
 
             Student fahim= new Student(
 
                     "fahim",
                     "shakil77977@gmail.com",
-                    LocalDate.of(2000, MARCH,3),
-                    21
+                    LocalDate.of(2000, MARCH,3)
+                    //21
             );
 
             Student lamisa= new Student(
 
                     "lamisa",
                     "shakil77977@gmail.com",
-                    LocalDate.of(2000, MARCH,3),
-                    21
+                    LocalDate.of(2000, MARCH,3)
+                    //21
             );
 
             repository.saveAll(
